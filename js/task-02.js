@@ -13,4 +13,4 @@ const markup = ingredients.map((ingredient) => {
 
 ingredientsEl.append(...ingredientsContainer);
 
-// console.log(ingredientsEl);
+console.log(ingredientsEl);
